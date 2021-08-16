@@ -140,3 +140,12 @@ tipue_search:
          files: [search.html, index.html, tags.html]
          categories: []
          tags: []
+
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
