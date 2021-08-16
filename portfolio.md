@@ -29,13 +29,7 @@ bopboy
 
 ## Education
 ---
-> Mar.2015 ~ Feb.2021 한성대학교
->
-> IT 융합공학부 (DIVISION OF IT CONVERGENCE ENGINEERING)
-
-> Feb.2021 ~ 현재 : 고려대학교
->
-> 인공지능 대학원 (이성한 교수님 연구실)
+> 나중에 작성 예정
 
 
 ## Research Interest
