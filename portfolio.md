@@ -10,23 +10,21 @@ order: 1
 <span style=
 "font-size:170%;
 font-weight:bold">
-김현우
+bopboy
 </span>
 </center>
 
-<center>MAJOR : AI EENGINEERING</center>
+<center>MAJOR : ??</center>
 
-<center>Korean University</center>
+<center>?? University</center>
 
-<center>145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea</center>
+<center>??</center>
 
 ## Personal Data
 ---
-> 1995.11.4 대한민국,서울특별시,동작구 출생
+> 연락처: scp0000@yahoo.com
 
-> 연락처: khw11044@gmail.com
-
-> Github : <a href="https://github.com/khw11044">https://github.com/khw11044</a>
+> Github : <a href="https://github.com/bopboy">https://github.com/bopboy</a>
 
 
 ## Education
