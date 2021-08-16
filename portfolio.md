@@ -16,20 +16,22 @@ bopboy
 
 <center>MAJOR : ??</center>
 
-<center>?? University</center>
+<center>??</center>
 
 <center>??</center>
 
 ## Personal Data
 ---
-> 연락처: scp0000@yahoo.com
+> 1999.12.31.
 
-> Github : <a href="https://github.com/bopboy">https://github.com/bopboy</a>
+> 연락처: asdasd
+
+> Github : <a href="https://github.com/bopoy">https://github.com/bopboy</a>
 
 
 ## Education
 ---
-> 나중에 작성 예정
+> 어쩌구 저쩌구
 
 
 ## Research Interest
@@ -106,12 +108,8 @@ Hansung Univ – ETRI
 
 ## Patents
 ---
-【발명의 영문명칭】: Image-based anti-drone detection device and metohd using deep learning model
 
-【출원번호】: 10-2020-0080646
-
-【출원인】: 김현우, 김태현, 제진명
-
+어쩌구 저쩌구
 
 
 
